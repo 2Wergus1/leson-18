@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    height: 800px;
+    background-color: #F3D7B7;
+
+}
+
+.row2 {
+    display: flex;
+    margin-top: 132px;
+    justify-content: space-between;
+}
+
+main {
+    height: 740px;
+    width: 1445.6px;
+    background-color: cornsilk;
+}
+
+main img{
+    margin-top: 160px;
+}
+
+main h2{
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: left;
+}
